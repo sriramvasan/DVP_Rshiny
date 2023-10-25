@@ -143,7 +143,7 @@ top_countries <- merged_df %>%
   tally() %>%
   arrange(-n) %>%
   slice_head(n = 10) %>% 
-  filter(n >= 5)
+  filter(n >= 20)
 
 # Define the Shiny app
 shinyApp(
@@ -183,7 +183,7 @@ shinyApp(
       g <- graph_from_data_frame(edge_list, directed=FALSE)
       
       # Remove self-links
-      g <- simplify(g, remove.multiple = T, remove.loops = TRUE)
+      g <- simplify(g, remove.multiple = F, remove.loops = TRUE)
       
       # Extract organization information and create a color mapping
       org_colors <- rainbow(length(unique(filtered_data$`Ip Orgs`)))
@@ -196,19 +196,16 @@ shinyApp(
       deg <- degree(g)
       
       # Define a threshold for "prominent connections"
-      threshold <- mean(deg) + 0 * sd(deg)
+      threshold <- mean(deg) + 0.75 * sd(deg)
       
       # Subset the graph to only include nodes with prominent connections
       g_sub <- induced_subgraph(g, which(deg > threshold))
       
       # Plot the subsetted graph
-      plot_obj <- plot(g_sub, vertex.size=10, vertex.label.cex=1, edge.arrow.size=0.5, layout=layout_with_fr)
+      plot(g_sub, vertex.size=10, vertex.label.cex=1, edge.arrow.size=0.5, layout=layout_with_fr)
       
       
-      ggplotly(plot_obj)
-      
-      # legend("bottomleft", legend = names(org_mapping), fill = org_mapping, cex = 0.7, title = "Organizations")
-      
+      legend("bottomleft", legend = names(org_mapping), fill = org_mapping, cex = 0.7, title = "Organizations")
       
     })
     
