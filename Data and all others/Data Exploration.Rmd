@@ -1,0 +1,58 @@
+```{r}
+# importing all the libraries
+library(dplyr)
+
+```
+
+```{r}
+df <- read.csv("PopupDB.csv")
+head(df)
+```
+
+```{r}
+
+names(df)
+
+```
+
+```{r}
+dim(df)
+```
+
+```{r}
+summary(df)
+```
+
+the columns in the dataset are \# "UID" "Domain" "Url" "Number" "Host" "Country" "City" "IP" "ASN" "Latitude" \# "Longitude" "Hash" "Date" "Mail"
+
+exploring UID
+
+The UID is the unique identifier of the dataset
+
+```{r}
+length( unique(df$UID))
+
+```
+
+Exploring the data for DOmain
+
+```{r}
+
+length(unique(df$Domain))
+```
+
+Out of 11k rows there are around 9604 unique domains
+
+Exploring domains futher
+
+```{r}
+domainvals <- df$Url %>%
+  regexec("https?://(?:www\\.)?([^./]+)")
+  
+
+head(domainvals)
+```
+
+```{r}
+domainvals
+```

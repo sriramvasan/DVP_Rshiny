@@ -1,0 +1,469 @@
+Country Name,Year,Unemployment_percentage
+Africa Eastern and Southern,2020,7.631303888
+Afghanistan,2020,11.71
+Africa Western and Central,2020,4.914143315
+Angola,2020,10.35
+Albania,2020,13.067
+Arab World,2020,11.34837054
+United Arab Emirates,2020,4.29
+Argentina,2020,11.46
+Armenia,2020,12.18
+Australia,2020,6.46
+Austria,2020,5.36
+Azerbaijan,2020,7.16
+Burundi,2020,1.03
+Belgium,2020,5.55
+Benin,2020,1.671
+Burkina Faso,2020,5.055
+Bangladesh,2020,5.209
+Bulgaria,2020,5.12
+Bahrain,2020,1.674
+"Bahamas, The",2020,12.867
+Bosnia and Herzegovina,2020,15.265
+Belarus,2020,4.05
+Belize,2020,10.788
+Bolivia,2020,7.9
+Brazil,2020,13.93
+Barbados,2020,10.105
+Brunei Darussalam,2020,7.41
+Bhutan,2020,5.03
+Botswana,2020,21.02
+Central African Republic,2020,6.38
+Canada,2020,9.46
+Central Europe and the Baltics,2020,4.370732417
+Switzerland,2020,4.82
+Channel Islands,2020,7.811
+Chile,2020,11.14
+China,2020,5
+Cote d'Ivoire,2020,2.66
+Cameroon,2020,3.947
+"Congo, Dem. Rep.",2020,5.127
+"Congo, Rep.",2020,22.517
+Colombia,2020,15.04
+Comoros,2020,9.032
+Cabo Verde,2020,14.878
+Costa Rica,2020,16.43
+Caribbean small states,2020,8.44932445
+Cuba,2020,1.4
+Cyprus,2020,7.59
+Czechia,2020,2.55
+Germany,2020,3.86
+Djibouti,2020,28.048
+Denmark,2020,5.64
+Dominican Republic,2020,6.13
+Algeria,2020,12.248
+East Asia & Pacific (excluding high income),2020,4.365928898
+Early-demographic dividend,2020,8.136884247
+East Asia & Pacific,2020,4.292511947
+Europe & Central Asia (excluding high income),2020,7.673194022
+Europe & Central Asia,2020,7.077426468
+Ecuador,2020,6.11
+"Egypt, Arab Rep.",2020,7.939
+Euro area,2020,7.844200475
+Eritrea,2020,7.28
+Spain,2020,15.53
+Estonia,2020,6.96
+Ethiopia,2020,4.126
+European Union,2020,7.054818762
+Fragile and conflict affected situations,2020,6.85912399
+Finland,2020,7.76
+Fiji,2020,4.794
+France,2020,8.01
+Gabon,2020,21.726
+United Kingdom,2020,4.472
+Georgia,2020,11.73
+Ghana,2020,3.774
+Guinea,2020,5.945
+"Gambia, The",2020,5.096
+Guinea-Bissau,2020,3.605
+Equatorial Guinea,2020,9.295
+Greece,2020,16.31
+Guatemala,2020,3.359
+Guam,2020,6.577
+Guyana,2020,15.589
+High income,2020,6.510182938
+"Hong Kong SAR, China",2020,5.81
+Honduras,2020,10.68
+Heavily indebted poor countries (HIPC),2020,5.453946848
+Croatia,2020,7.51
+Haiti,2020,15.085
+Hungary,2020,4.25
+IBRD only,2020,7.397135395
+IDA & IBRD total,2020,6.998229884
+IDA total,2020,5.684068499
+IDA blend,2020,6.203104346
+Indonesia,2020,4.25
+IDA only,2020,5.451807274
+India,2020,10.195
+Ireland,2020,5.62
+"Iran, Islamic Rep.",2020,9.69
+Iraq,2020,16.23
+Iceland,2020,5.48
+Israel,2020,4.33
+Italy,2020,9.16
+Jamaica,2020,6.5
+Jordan,2020,19.21
+Japan,2020,2.8
+Kazakhstan,2020,4.89
+Kenya,2020,5.616
+Kyrgyz Republic,2020,4.63
+Cambodia,2020,0.298
+"Korea, Rep.",2020,3.93
+Kuwait,2020,3.331
+Latin America & Caribbean (excluding high income),2020,10.25705454
+Lao PDR,2020,3.576
+Lebanon,2020,12.971
+Liberia,2020,3.842
+Libya,2020,20.343
+St. Lucia,2020,20.39
+Latin America & Caribbean,2020,10.20078448
+Least developed countries: UN classification,2020,5.609593534
+Low income,2020,5.900354309
+Sri Lanka,2020,5.2
+Lower middle income,2020,7.777896698
+Low & middle income,2020,6.983443672
+Lesotho,2020,18.461
+Late-demographic dividend,2020,5.925596484
+Lithuania,2020,8.49
+Luxembourg,2020,6.77
+Latvia,2020,8.1
+"Macao SAR, China",2020,2.57
+Morocco,2020,11.114
+Moldova,2020,3.82
+Madagascar,2020,2.363
+Maldives,2020,5.34
+Middle East & North Africa,2020,10.03072832
+Mexico,2020,4.45
+Middle income,2020,7.090831733
+North Macedonia,2020,16.55
+Mali,2020,3.53
+Malta,2020,4.35
+Myanmar,2020,1.48
+Middle East & North Africa (excluding high income),2020,11.42194564
+Montenegro,2020,17.88
+Mongolia,2020,6.59
+Mozambique,2020,3.776
+Mauritania,2020,11.137
+Mauritius,2020,8.63
+Malawi,2020,5.681
+Malaysia,2020,4.54
+North America,2020,8.205089914
+Namibia,2020,21.236
+New Caledonia,2020,13.56
+Niger,2020,0.68
+Nigeria,2020,5.999
+Nicaragua,2020,5.937
+Netherlands,2020,3.82
+Norway,2020,4.42
+Nepal,2020,13.078
+New Zealand,2020,4.6
+OECD members,2020,7.102035936
+Oman,2020,2.94
+Other small states,2020,10.15141407
+Pakistan,2020,6.55
+Panama,2020,14.114
+Peru,2020,7.18
+Philippines,2020,2.52
+Papua New Guinea,2020,2.694
+Poland,2020,3.16
+Pre-demographic dividend,2020,6.121677065
+Puerto Rico,2020,8.89
+"Korea, Dem. People's Rep.",2020,3.064
+Portugal,2020,6.8
+Paraguay,2020,7.55
+West Bank and Gaza,2020,25.89
+Pacific island small states,2020,3.285646308
+Post-demographic dividend,2020,6.70270705
+French Polynesia,2020,13.67
+Qatar,2020,0.14
+Romania,2020,5.03
+Russian Federation,2020,5.59
+Rwanda,2020,13.01
+South Asia,2020,9.253801146
+Saudi Arabia,2020,7.45
+Sudan,2020,19.292
+Senegal,2020,3.509
+Singapore,2020,4.1
+Solomon Islands,2020,0.892
+Sierra Leone,2020,3.572
+El Salvador,2020,5.02
+Somalia,2020,19.567
+Serbia,2020,9.01
+Sub-Saharan Africa (excluding high income),2020,6.627844888
+South Sudan,2020,13.745
+Sub-Saharan Africa,2020,6.627844888
+Small states,2020,9.475534561
+Sao Tome and Principe,2020,15.443
+Suriname,2020,9.524
+Slovak Republic,2020,6.69
+Slovenia,2020,4.97
+Sweden,2020,8.29
+Eswatini,2020,25.08
+Syrian Arab Republic,2020,10.011
+Chad,2020,1.645
+East Asia & Pacific (IDA & IBRD countries),2020,4.384423439
+Europe & Central Asia (IDA & IBRD countries),2020,7.163663981
+Togo,2020,4.028
+Thailand,2020,1.1
+Tajikistan,2020,7.485
+Turkmenistan,2020,4.799
+Latin America & the Caribbean (IDA & IBRD countries),2020,10.35544904
+Timor-Leste,2020,4.804
+Middle East & North Africa (IDA & IBRD countries),2020,11.27290051
+Tonga,2020,2.654
+South Asia (IDA & IBRD),2020,9.253801146
+Sub-Saharan Africa (IDA & IBRD countries),2020,6.627844888
+Trinidad and Tobago,2020,4.21
+Tunisia,2020,16.373
+Turkiye,2020,13.11
+Tanzania,2020,2.78
+Uganda,2020,4.511
+Ukraine,2020,9.48
+Upper middle income,2020,6.520563778
+Uruguay,2020,10.33
+United States,2020,8.05
+Uzbekistan,2020,5.29
+St. Vincent and the Grenadines,2020,20.55
+"Venezuela, RB",2020,7.53
+Virgin Islands (U.S.),2020,13.255
+Vietnam,2020,2.1
+Vanuatu,2020,2.017
+World,2020,6.89827321
+Samoa,2020,9.793
+"Yemen, Rep.",2020,13.575
+South Africa,2020,24.34
+Zambia,2020,6.03
+Zimbabwe,2020,7.898
+Africa Eastern and Southern,2021,7.920218722
+Africa Western and Central,2021,4.873635163
+Angola,2021,10.384
+Albania,2021,12.683
+Arab World,2021,11.02369363
+United Arab Emirates,2021,3.11
+Argentina,2021,8.74
+Armenia,2021,12.729
+Australia,2021,5.12
+Austria,2021,6.18
+Azerbaijan,2021,5.95
+Burundi,2021,1.132
+Belgium,2021,6.26
+Benin,2021,1.752
+Burkina Faso,2021,5.232
+Bangladesh,2021,5.097
+Bulgaria,2021,5.27
+Bahrain,2021,1.532
+"Bahamas, The",2021,11.665
+Bosnia and Herzegovina,2021,14.9
+Belarus,2021,3.9
+Belize,2021,10.29
+Bolivia,2021,5.09
+Brazil,2021,13.34
+Barbados,2021,9.582
+Brunei Darussalam,2021,7.446
+Bhutan,2021,3.908
+Botswana,2021,21.155
+Central African Republic,2021,6.458
+Canada,2021,7.46
+Central Europe and the Baltics,2021,4.484102608
+Switzerland,2021,5.1
+Channel Islands,2021,7.553
+Chile,2021,9.35
+China,2021,4.55
+Cote d'Ivoire,2021,2.817
+Cameroon,2021,4.122
+"Congo, Dem. Rep.",2021,5.112
+"Congo, Rep.",2021,22.235
+Colombia,2021,13.9
+Comoros,2021,8.979
+Cabo Verde,2021,13.91
+Costa Rica,2021,15.14
+Caribbean small states,2021,8.044777516
+Cuba,2021,1.473
+Cyprus,2021,7.46
+Czechia,2021,2.81
+Germany,2021,3.57
+Djibouti,2021,27.954
+Denmark,2021,5.06
+Dominican Republic,2021,7.7
+Algeria,2021,11.747
+East Asia & Pacific (excluding high income),2021,4.081647254
+Early-demographic dividend,2021,7.143659993
+East Asia & Pacific,2021,4.014509823
+Europe & Central Asia (excluding high income),2021,7.248437535
+Europe & Central Asia,2021,6.9091061
+Ecuador,2021,4.5
+"Egypt, Arab Rep.",2021,7.4
+Euro area,2021,7.704372928
+Eritrea,2021,6.802
+Spain,2021,14.78
+Estonia,2021,6.18
+Ethiopia,2021,3.93
+European Union,2021,7.00142829
+Fragile and conflict affected situations,2021,7.035048026
+Finland,2021,7.61
+Fiji,2021,4.929
+France,2021,7.86
+Gabon,2021,21.836
+United Kingdom,2021,4.826
+Georgia,2021,12.208
+Ghana,2021,3.919
+Guinea,2021,5.82
+"Gambia, The",2021,4.981
+Guinea-Bissau,2021,3.687
+Equatorial Guinea,2021,9.147
+Greece,2021,14.71
+Guatemala,2021,2.942
+Guam,2021,6.25
+Guyana,2021,14.905
+High income,2021,5.611020024
+"Hong Kong SAR, China",2021,5.17
+Honduras,2021,7.947
+Heavily indebted poor countries (HIPC),2021,5.119614745
+Croatia,2021,7.61
+Haiti,2021,15.017
+Hungary,2021,4.05
+IBRD only,2021,6.537495512
+IDA & IBRD total,2021,6.343467262
+IDA total,2021,5.675257428
+IDA blend,2021,6.170713537
+Indonesia,2021,3.83
+IDA only,2021,5.434772
+India,2021,7.713
+Ireland,2021,6.19
+"Iran, Islamic Rep.",2021,10.818
+Iraq,2021,16.17
+Iceland,2021,6.02
+Israel,2021,4.319
+Italy,2021,9.5
+Jamaica,2021,6.011
+Jordan,2021,18.444
+Japan,2021,2.8
+Kazakhstan,2021,5.162
+Kenya,2021,5.644
+Kyrgyz Republic,2021,4.766
+Cambodia,2021,0.295
+"Korea, Rep.",2021,3.64
+Kuwait,2021,2.818
+Latin America & Caribbean (excluding high income),2021,9.33579553
+Lao PDR,2021,3.637
+Lebanon,2021,12.497
+Liberia,2021,3.672
+Libya,2021,20.606
+St. Lucia,2021,19.52
+Latin America & Caribbean,2021,9.236440299
+Least developed countries: UN classification,2021,5.62516766
+Low income,2021,5.602215716
+Sri Lanka,2021,5.239
+Lower middle income,2021,6.787580417
+Low & middle income,2021,6.332302758
+Lesotho,2021,18.293
+Late-demographic dividend,2021,5.515216842
+Lithuania,2021,7.11
+Luxembourg,2021,5.25
+Latvia,2021,7.51
+"Macao SAR, China",2021,2.253
+Morocco,2021,10.542
+Moldova,2021,3.23
+Madagascar,2021,2.31
+Maldives,2021,5.257
+Middle East & North Africa,2021,9.934003002
+Mexico,2021,4.09
+Middle income,2021,6.403189082
+North Macedonia,2021,15.78
+Mali,2021,2.603
+Malta,2021,3.53
+Middle East & North Africa (excluding high income),2021,11.43063387
+Montenegro,2021,16.87
+Mongolia,2021,7.75
+Mozambique,2021,3.939
+Mauritania,2021,11.287
+Mauritius,2021,7.656
+Malawi,2021,5.658
+Malaysia,2021,4.046
+North America,2021,5.586315824
+Namibia,2021,21.268
+New Caledonia,2021,12.436
+Niger,2021,0.668
+Nigeria,2021,5.936
+Nicaragua,2021,5.932
+Netherlands,2021,4.21
+Norway,2021,4.37
+Nepal,2021,12.223
+New Zealand,2021,3.78
+OECD members,2021,6.18839585
+Oman,2021,2.512
+Other small states,2021,10.0754612
+Pakistan,2021,6.34
+Panama,2021,10.301
+Peru,2021,5.1
+Philippines,2021,2.632
+Papua New Guinea,2021,2.825
+Poland,2021,3.36
+Pre-demographic dividend,2021,5.916659263
+Puerto Rico,2021,7.9
+"Korea, Dem. People's Rep.",2021,3.213
+Portugal,2021,6.58
+Paraguay,2021,7.31
+West Bank and Gaza,2021,26.39
+Pacific island small states,2021,3.376790475
+Post-demographic dividend,2021,5.777631319
+French Polynesia,2021,13.265
+Qatar,2021,0.17
+Romania,2021,5.59
+Russian Federation,2021,4.72
+Rwanda,2021,13.315
+South Asia,2021,7.296216756
+Saudi Arabia,2021,6.692
+Sudan,2021,19.05
+Senegal,2021,3.498
+Singapore,2021,3.54
+Solomon Islands,2021,0.988
+Sierra Leone,2021,3.697
+El Salvador,2021,4.35
+Somalia,2021,19.931
+Serbia,2021,10.06
+Sub-Saharan Africa (excluding high income),2021,6.798443188
+South Sudan,2021,13.485
+Sub-Saharan Africa,2021,6.798443188
+Small states,2021,9.343304068
+Sao Tome and Principe,2021,15.34
+Suriname,2021,9.078
+Slovak Republic,2021,6.83
+Slovenia,2021,4.74
+Sweden,2021,8.72
+Eswatini,2021,24.56
+Syrian Arab Republic,2021,9.816
+Chad,2021,1.538
+East Asia & Pacific (IDA & IBRD countries),2021,4.094141722
+Europe & Central Asia (IDA & IBRD countries),2021,6.844330309
+Togo,2021,4.175
+Thailand,2021,0.992
+Tajikistan,2021,7.744
+Turkmenistan,2021,4.787
+Latin America & the Caribbean (IDA & IBRD countries),2021,9.368801811
+Timor-Leste,2021,4.975
+Middle East & North Africa (IDA & IBRD countries),2021,11.26701505
+Tonga,2021,2.669
+South Asia (IDA & IBRD),2021,7.296216756
+Sub-Saharan Africa (IDA & IBRD countries),2021,6.798443188
+Trinidad and Tobago,2021,4.45
+Tunisia,2021,16.264
+Turkiye,2021,11.98
+Tanzania,2021,2.74
+Uganda,2021,4.295
+Ukraine,2021,9.83
+Upper middle income,2021,6.092652631
+Uruguay,2021,9.29
+United States,2021,5.35
+Uzbekistan,2021,6.017
+St. Vincent and the Grenadines,2021,20.398
+"Venezuela, RB",2021,6.471
+Virgin Islands (U.S.),2021,13.173
+Vietnam,2021,2.38
+Vanuatu,2021,2.118
+World,2021,6.20187064
+Samoa,2021,9.91
+"Yemen, Rep.",2021,13.887
+South Africa,2021,28.77
+Zambia,2021,6.22
+Zimbabwe,2021,8.067
