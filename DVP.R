@@ -155,9 +155,9 @@ shinyApp(
     fluidRow(
       column(12, selectInput("countryInput", 
                              "Select a Country:", 
-                             choices = top_countries, 
-                             selected = top_countries[1])),
-      column(12, plotlyOutput("networkPlot"))
+                             choices = unique(top_countries$Website_country), 
+                             selected = "United States")),
+      column(12, plotOutput("networkPlot"))
     )
     
     
@@ -167,7 +167,7 @@ shinyApp(
   # Server logic
   server = function(input, output) {
     
-    output$networkPlot <- renderPlotly({
+    output$networkPlot <- renderPlot({
       
       
       # Filter data by selected country
@@ -196,13 +196,13 @@ shinyApp(
       deg <- degree(g)
       
       # Define a threshold for "prominent connections"
-      # threshold <- mean(deg) + 0 * sd(deg)
+      threshold <- mean(deg) + 0 * sd(deg)
       
       # Subset the graph to only include nodes with prominent connections
-      # g_sub <- induced_subgraph(g, which(deg > threshold))
+      g_sub <- induced_subgraph(g, which(deg > threshold))
       
       # Plot the subsetted graph
-      plot_obj <- plot(g, vertex.size=10, vertex.label.cex=1, edge.arrow.size=0.5, layout=layout_with_fr)
+      plot_obj <- plot(g_sub, vertex.size=10, vertex.label.cex=1, edge.arrow.size=0.5, layout=layout_with_fr)
       
       
       ggplotly(plot_obj)
