@@ -153,7 +153,7 @@ shinyApp(
     titlePanel("Interactive Network Graph by Country"),
     
     fluidRow(
-      column(12, selectInput("countryInput", 
+      column( align = "center", 12, selectInput("countryInput", 
                              "Select a Country:", 
                              choices = unique(top_countries$Website_country), 
                              selected = "United States")),
@@ -196,7 +196,7 @@ shinyApp(
       deg <- degree(g)
       
       # Define a threshold for "prominent connections"
-      threshold <- mean(deg) + 0.75 * sd(deg)
+      threshold <- mean(deg) + 1.5 * sd(deg)
       
       # Subset the graph to only include nodes with prominent connections
       g_sub <- induced_subgraph(g, which(deg > threshold))
@@ -205,7 +205,7 @@ shinyApp(
       plot(g_sub, vertex.size=10, vertex.label.cex=1, edge.arrow.size=0.5, layout=layout_with_fr)
       
       
-      legend("bottomleft", legend = names(org_mapping), fill = org_mapping, cex = 0.7, title = "Organizations")
+      # legend("bottomleft", legend = names(org_mapping), fill = org_mapping, cex = 0.7, title = "Organizations")
       
     })
     

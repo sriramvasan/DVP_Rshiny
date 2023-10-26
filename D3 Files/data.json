@@ -1,13 +1,67 @@
-[{"Website_country":"Australia","scams_Difference":-0.5422,"unemp_Difference":1.34},
-{"Website_country":"Brazil","scams_Difference":-0.6627,"unemp_Difference":0.59},
-{"Website_country":"Canada","scams_Difference":-0.6315,"unemp_Difference":2},
-{"Website_country":"France","scams_Difference":0.0459,"unemp_Difference":0.15},
-{"Website_country":"Germany","scams_Difference":-0.7017,"unemp_Difference":0.29},
-{"Website_country":"India","scams_Difference":9.5833,"unemp_Difference":2.482},
-{"Website_country":"Ireland","scams_Difference":-0.3333,"unemp_Difference":-0.57},
-{"Website_country":"Japan","scams_Difference":0.25,"unemp_Difference":0},
-{"Website_country":"Lithuania","scams_Difference":-0.9231,"unemp_Difference":1.38},
-{"Website_country":"Netherlands","scams_Difference":-0.6791,"unemp_Difference":-0.39},
-{"Website_country":"Singapore","scams_Difference":1.8227,"unemp_Difference":0.56},
-{"Website_country":"United Kingdom","scams_Difference":-0.6221,"unemp_Difference":-0.354},
-{"Website_country":"United States","scams_Difference":-0.537,"unemp_Difference":2.7}]
+[
+  {
+    "Website_country": "Australia",
+    "scams_Difference": -0.5422,
+    "unemp_Difference": 1.34
+  },
+  {
+    "Website_country": "Brazil",
+    "scams_Difference": -0.6627,
+    "unemp_Difference": 0.59
+  },
+  {
+    "Website_country": "Canada",
+    "scams_Difference": -0.6315,
+    "unemp_Difference": 2
+  },
+  {
+    "Website_country": "France",
+    "scams_Difference": 0.0459,
+    "unemp_Difference": 0.15
+  },
+  {
+    "Website_country": "Germany",
+    "scams_Difference": -0.7017,
+    "unemp_Difference": 0.29
+  },
+  {
+    "Website_country": "India",
+    "scams_Difference": 9.5833,
+    "unemp_Difference": 2.482
+  },
+  {
+    "Website_country": "Ireland",
+    "scams_Difference": -0.3333,
+    "unemp_Difference": -0.57
+  },
+  {
+    "Website_country": "Japan",
+    "scams_Difference": 0.25,
+    "unemp_Difference": 0
+  },
+  {
+    "Website_country": "Lithuania",
+    "scams_Difference": -0.9231,
+    "unemp_Difference": 1.38
+  },
+  {
+    "Website_country": "Netherlands",
+    "scams_Difference": -0.6791,
+    "unemp_Difference": -0.39
+  },
+  {
+    "Website_country": "Singapore",
+    "scams_Difference": 1.8227,
+    "unemp_Difference": 0.56
+  },
+  {
+    "Website_country": "United Kingdom",
+    "scams_Difference": -0.6221,
+    "unemp_Difference": -0.354
+  },
+  {
+    "Website_country": "United States",
+    "scams_Difference": -0.537,
+    "unemp_Difference": 2.7
+  }
+]

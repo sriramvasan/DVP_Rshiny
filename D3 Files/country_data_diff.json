@@ -1,0 +1,442 @@
+[
+    {
+        "Website_country": "Australia",
+        "Phone_country": "United Kingdom",
+        "Count": 8
+    },
+    {
+        "Website_country": "Australia",
+        "Phone_country": "United States",
+        "Count": 1528
+    },
+    {
+        "Website_country": "Brazil",
+        "Phone_country": "United States",
+        "Count": 444
+    },
+    {
+        "Website_country": "Canada",
+        "Phone_country": "Australia",
+        "Count": 16
+    },
+    {
+        "Website_country": "Canada",
+        "Phone_country": "Cambodia",
+        "Count": 2
+    },
+    {
+        "Website_country": "Canada",
+        "Phone_country": "Finland",
+        "Count": 6
+    },
+    {
+        "Website_country": "Canada",
+        "Phone_country": "France",
+        "Count": 24
+    },
+    {
+        "Website_country": "Canada",
+        "Phone_country": "Japan",
+        "Count": 92
+    },
+    {
+        "Website_country": "Canada",
+        "Phone_country": "Norway/Svalbard and Jan Mayen",
+        "Count": 18
+    },
+    {
+        "Website_country": "Canada",
+        "Phone_country": "Sweden",
+        "Count": 4
+    },
+    {
+        "Website_country": "Canada",
+        "Phone_country": "Switzeland",
+        "Count": 2
+    },
+    {
+        "Website_country": "Canada",
+        "Phone_country": "United Kingdom",
+        "Count": 12
+    },
+    {
+        "Website_country": "Canada",
+        "Phone_country": "United States",
+        "Count": 1770
+    },
+    {
+        "Website_country": "China",
+        "Phone_country": "United States",
+        "Count": 2
+    },
+    {
+        "Website_country": "Denmark",
+        "Phone_country": "Germany",
+        "Count": 6
+    },
+    {
+        "Website_country": "Finland",
+        "Phone_country": "Germany",
+        "Count": 2
+    },
+    {
+        "Website_country": "France",
+        "Phone_country": "Belgium",
+        "Count": 4
+    },
+    {
+        "Website_country": "France",
+        "Phone_country": "Germany",
+        "Count": 116
+    },
+    {
+        "Website_country": "France",
+        "Phone_country": "Japan",
+        "Count": 8
+    },
+    {
+        "Website_country": "France",
+        "Phone_country": "Spain",
+        "Count": 2
+    },
+    {
+        "Website_country": "France",
+        "Phone_country": "Switzeland",
+        "Count": 8
+    },
+    {
+        "Website_country": "France",
+        "Phone_country": "United Kingdom",
+        "Count": 2
+    },
+    {
+        "Website_country": "France",
+        "Phone_country": "United States",
+        "Count": 1620
+    },
+    {
+        "Website_country": "Germany",
+        "Phone_country": "Australia",
+        "Count": 10
+    },
+    {
+        "Website_country": "Germany",
+        "Phone_country": "Austria",
+        "Count": 8
+    },
+    {
+        "Website_country": "Germany",
+        "Phone_country": "Belgium",
+        "Count": 6
+    },
+    {
+        "Website_country": "Germany",
+        "Phone_country": "France",
+        "Count": 4
+    },
+    {
+        "Website_country": "Germany",
+        "Phone_country": "Italy",
+        "Count": 8
+    },
+    {
+        "Website_country": "Germany",
+        "Phone_country": "Japan",
+        "Count": 84
+    },
+    {
+        "Website_country": "Germany",
+        "Phone_country": "Switzeland",
+        "Count": 12
+    },
+    {
+        "Website_country": "Germany",
+        "Phone_country": "United Kingdom",
+        "Count": 88
+    },
+    {
+        "Website_country": "Germany",
+        "Phone_country": "United States",
+        "Count": 160
+    },
+    {
+        "Website_country": "India",
+        "Phone_country": "United States",
+        "Count": 278
+    },
+    {
+        "Website_country": "Ireland",
+        "Phone_country": "Austria",
+        "Count": 12
+    },
+    {
+        "Website_country": "Ireland",
+        "Phone_country": "Belgium",
+        "Count": 22
+    },
+    {
+        "Website_country": "Ireland",
+        "Phone_country": "France",
+        "Count": 4
+    },
+    {
+        "Website_country": "Ireland",
+        "Phone_country": "Netherlands",
+        "Count": 10
+    },
+    {
+        "Website_country": "Ireland",
+        "Phone_country": "Norway/Svalbard and Jan Mayen",
+        "Count": 4
+    },
+    {
+        "Website_country": "Ireland",
+        "Phone_country": "Sweden",
+        "Count": 4
+    },
+    {
+        "Website_country": "Ireland",
+        "Phone_country": "Switzeland",
+        "Count": 24
+    },
+    {
+        "Website_country": "Japan",
+        "Phone_country": "Australia",
+        "Count": 2
+    },
+    {
+        "Website_country": "Japan",
+        "Phone_country": "Germany",
+        "Count": 2
+    },
+    {
+        "Website_country": "Japan",
+        "Phone_country": "United States",
+        "Count": 20
+    },
+    {
+        "Website_country": "Lithuania",
+        "Phone_country": "United States",
+        "Count": 28
+    },
+    {
+        "Website_country": "Luxembourg",
+        "Phone_country": "United States",
+        "Count": 6
+    },
+    {
+        "Website_country": "Netherlands",
+        "Phone_country": "Austria",
+        "Count": 26
+    },
+    {
+        "Website_country": "Netherlands",
+        "Phone_country": "Belgium",
+        "Count": 112
+    },
+    {
+        "Website_country": "Netherlands",
+        "Phone_country": "Finland",
+        "Count": 38
+    },
+    {
+        "Website_country": "Netherlands",
+        "Phone_country": "France",
+        "Count": 22
+    },
+    {
+        "Website_country": "Netherlands",
+        "Phone_country": "Germany",
+        "Count": 24
+    },
+    {
+        "Website_country": "Netherlands",
+        "Phone_country": "Japan",
+        "Count": 4
+    },
+    {
+        "Website_country": "Netherlands",
+        "Phone_country": "Norway/Svalbard and Jan Mayen",
+        "Count": 2
+    },
+    {
+        "Website_country": "Netherlands",
+        "Phone_country": "Sweden",
+        "Count": 56
+    },
+    {
+        "Website_country": "Netherlands",
+        "Phone_country": "Switzeland",
+        "Count": 28
+    },
+    {
+        "Website_country": "Netherlands",
+        "Phone_country": "United Kingdom",
+        "Count": 6
+    },
+    {
+        "Website_country": "Netherlands",
+        "Phone_country": "United States",
+        "Count": 196
+    },
+    {
+        "Website_country": "Singapore",
+        "Phone_country": "Australia",
+        "Count": 32
+    },
+    {
+        "Website_country": "Singapore",
+        "Phone_country": "France",
+        "Count": 2
+    },
+    {
+        "Website_country": "Singapore",
+        "Phone_country": "Japan",
+        "Count": 168
+    },
+    {
+        "Website_country": "Singapore",
+        "Phone_country": "Switzeland",
+        "Count": 4
+    },
+    {
+        "Website_country": "Singapore",
+        "Phone_country": "United Kingdom",
+        "Count": 10
+    },
+    {
+        "Website_country": "Singapore",
+        "Phone_country": "United States",
+        "Count": 846
+    },
+    {
+        "Website_country": "Switzerland",
+        "Phone_country": "United States",
+        "Count": 4
+    },
+    {
+        "Website_country": "United Kingdom",
+        "Phone_country": "France",
+        "Count": 2
+    },
+    {
+        "Website_country": "United Kingdom",
+        "Phone_country": "Germany",
+        "Count": 26
+    },
+    {
+        "Website_country": "United Kingdom",
+        "Phone_country": "Italy",
+        "Count": 2
+    },
+    {
+        "Website_country": "United Kingdom",
+        "Phone_country": "Japan",
+        "Count": 2
+    },
+    {
+        "Website_country": "United Kingdom",
+        "Phone_country": "United Arab Emirates",
+        "Count": 2
+    },
+    {
+        "Website_country": "United Kingdom",
+        "Phone_country": "United States",
+        "Count": 776
+    },
+    {
+        "Website_country": "United States",
+        "Phone_country": "Argentina",
+        "Count": 2
+    },
+    {
+        "Website_country": "United States",
+        "Phone_country": "Australia",
+        "Count": 230
+    },
+    {
+        "Website_country": "United States",
+        "Phone_country": "Austria",
+        "Count": 122
+    },
+    {
+        "Website_country": "United States",
+        "Phone_country": "Belgium",
+        "Count": 10
+    },
+    {
+        "Website_country": "United States",
+        "Phone_country": "Czech Republic",
+        "Count": 2
+    },
+    {
+        "Website_country": "United States",
+        "Phone_country": "Ethiopia",
+        "Count": 2
+    },
+    {
+        "Website_country": "United States",
+        "Phone_country": "Finland",
+        "Count": 6
+    },
+    {
+        "Website_country": "United States",
+        "Phone_country": "France",
+        "Count": 246
+    },
+    {
+        "Website_country": "United States",
+        "Phone_country": "Germany",
+        "Count": 286
+    },
+    {
+        "Website_country": "United States",
+        "Phone_country": "Ireland",
+        "Count": 4
+    },
+    {
+        "Website_country": "United States",
+        "Phone_country": "Japan",
+        "Count": 728
+    },
+    {
+        "Website_country": "United States",
+        "Phone_country": "Norway/Svalbard and Jan Mayen",
+        "Count": 8
+    },
+    {
+        "Website_country": "United States",
+        "Phone_country": "Romania",
+        "Count": 2
+    },
+    {
+        "Website_country": "United States",
+        "Phone_country": "Singapore",
+        "Count": 4
+    },
+    {
+        "Website_country": "United States",
+        "Phone_country": "South Africa",
+        "Count": 4
+    },
+    {
+        "Website_country": "United States",
+        "Phone_country": "Spain",
+        "Count": 568
+    },
+    {
+        "Website_country": "United States",
+        "Phone_country": "Switzeland",
+        "Count": 26
+    },
+    {
+        "Website_country": "United States",
+        "Phone_country": "United Kingdom",
+        "Count": 206
+    },
+    {
+        "Website_country": "United States",
+        "Phone_country": "Venezuela",
+        "Count": 2
+    }
+]
